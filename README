@@ -1,0 +1,10 @@
+name: MaxWindow
+author:  Miroslav Safr <miroslav.safr@gmail.com> 
+web: https://github.com/safrm/MaxWindow
+description: Extra keyboard button handler for Windows - Maximize or restore top window by one press
+I used to have 2 different keyboards with many extra buttons and no use for them. This is one of the useful actions to attach to one of them. 
+
+content: 
+  1. copy MaxWindow.exe to some permanent location - for example: C:\Program Files\MaxWindow\MaxWindow.exe
+  2. register you keyboard handler to execute the file on special button press event (it can be also global shortcut as F11..)
+  3. use the advantage of useful shortcut (one extra button instead of using mouse)
