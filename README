@@ -1,6 +1,6 @@
 name: MaxWindow
 author:  Miroslav Safr <miroslav.safr@gmail.com> 
-web: https://github.com/safrm/MaxWindow
+web: http://safrm.net/projects/MaxWindow
 description: Extra keyboard button handler for Windows - Maximize or restore top window by one press
 I used to have 2 different keyboards with many extra buttons and no use for them. This is one of the useful actions to attach to one of them. 
 
